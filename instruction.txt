@@ -1,0 +1,109 @@
+XAMPP
+
+X = Any OS i.e
+	1. Windows
+	2. Linux
+	3. Unix
+	4. MacOS
+A = Apache (Webserver)
+M = MYSQL (DATABASE)
+P = PHP (ServerSide Scripting Language)
+
+XAMPP
+
+Apache (WebServer) Service (Process)
+MySQL (Database) Service (Process)
+
+
+/xampp/htdocs
+
+
+
+Website
+
+1. Frontend (Client Side) (Static Website)
+	1.1  HTML (Structure)
+	1.2  CSS  (Design)
+	1.3  JS   (Behaviour)
+		1.3.1 JQuery
+
+	1.4  Bootstrap RWD (Responsive Web Design)
+2. Backend   Dynamic Website
+	Server Side 
+	2.1 PHP (PHP HyperTExt PreProcessor) server side scripting language
+	2.2 MySQL (Database/DB) SQL Language
+		The main perpose of DB is to store the info/data
+
+Client Server Architecture
+
+	Client  ---->(Data) Request ----->  Server (Recieve) ---> Database
+
+SQL Language
+	1. MySQL
+	2. SQL SERVER
+	3. MS Access
+	4. Oracle
+	5. Sybase
+	6. Informix
+	7. Postgres
+
+Client --->Request ----> (Apache Webserver) Server
+Client <----Response <---- (Apache Webserver) Server
+
+Webserver
+ WEbserver is application/Process/Server which handles our HTTP (HyperText Transfer Protocol) Request and give response to the client
+
+Webserver
+	1. Apache WEbserver
+	2. Microsoft IIS
+	3. Enginix
+	
+XAMPP
+
+	A=Apache
+	M=Mysql
+	P=PHP
+
+localhost = 127.0.0.1
+
+
+code . --> Open VS Code Editor
+
+Point to Note
+0. The default file extension for PHP files is ".php".
+1. A Php file can contain multiple php block/tags
+2. A php tag (<?php ?>) can not contain other php tag
+3. A php tag can contain comment tag 
+4. Comment tag do not execute
+5. Every statement should be terminated by ; semi-colon
+6. You can write html tags inside string '' or ""
+7. You must document your php code using comment tags
+8. You can write HTML/CSS/JS Code inside a php file
+9. You can write HTML tag inside a php block tag in strings ''/""
+10. A PHP script can be placed anywhere in the document/Page/WebPage.
+11. PHP is Case Sensitive Language.
+    11.1   all variable names are case-sensitive!
+        $x != $X
+
+12. We can create a variable using $ symbol
+    a != A
+
+    xyz language is not case Sensitive.
+    a == A
+
+    
+
+string 'Abhishek' "Avinash"
+comment tags
+	1. Single Line Comment  // or #
+	2. Multi Line  Comment /*   */
+
+
+To view the source Code
+Ctrl + U
+
+Website
+    1. Frontend (HTML5,CSS3,JS)
+
+    2. Backend (PHP + MySQL)
+	
